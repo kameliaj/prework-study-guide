@@ -10,10 +10,13 @@ footer {
     background-color: greenyellow;
     color: white;
 }
-h1,
-h2 {
+h1 {
     text-align: center;
     font-size: 30px;
+}
+h2 {
+    text-align: center;
+    font-size: 24px;
 }
 img {
     display: block;
@@ -28,7 +31,7 @@ ul {
 }
 p {
     text-align: center;
-    font-size: 30px;
+    font-size: 18px;
 }
 .card {
     width: 80%;
